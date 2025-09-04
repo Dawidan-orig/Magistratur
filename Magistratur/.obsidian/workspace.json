@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "af946f38ae4cd937",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5a877c3ec99f909",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cd29891d297a20b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-й курс, 1-й Семестр/Защита Информации/Запись/04.09ЗащИнф.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04.09ЗащИнф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d8d9befdd652280d",
+    "type": "split",
+    "children": [
+      {
+        "id": "83fa54b4c32a8229",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8eb7534f6af0417d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1137a8cce0de788a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "045e6ea4e3cc6526",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4b132d7f879b0f1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4337455fc8c1756d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6ca8991737da21d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Защита Информации/04.09.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 04.09"
+            }
+          },
+          {
+            "id": "fc74faa8f62e4557",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Защита Информации/04.09.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 04.09"
+            }
+          },
+          {
+            "id": "4bbd3bc74ad68ed6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7ecc2b8bc503c9c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Защита Информации/04.09.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 04.09"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8eb7534f6af0417d",
+  "lastOpenFiles": [
+    "MagPrep/Выполнение арифметических операций над числами с плавающей точкой..md",
+    "MagPrep/Виды атак на информацию..md",
+    "1-й курс, 1-й Семестр/Защита Информации/Запись/04.09ЗащИнф.md",
+    "Mag_Prep/Книги/Танненбаум_ОС.pdf",
+    "Mag_Prep/Разделы/Раздел 9, Процесс разработки.md",
+    "Mag_Prep/Разделы/Раздел 8, Базы Данных.md",
+    "Mag_Prep/Разделы/Раздел 7, Защита Информации.md",
+    "Mag_Prep/Разделы/Раздел 6, Сети.md",
+    "Mag_Prep/Разделы/Раздел 5, Программирование.md",
+    "Mag_Prep/Разделы/Раздел 4, Операционки.md",
+    "Mag_Prep/Разделы/Раздел 3, ЭВМ и Перефирия.md",
+    "Mag_Prep/Разделы/Раздел 2, Информатика.md",
+    "Mag_Prep/Разделы/Раздел 1, Дискретка-Матлог.md",
+    "Mag_Prep/Книги/Танненбаум.pdf",
+    "Mag_Prep/Книги/Diskretnaya_Matematika_Dlya_Programmistov_R_Khaggarti.pdf",
+    "Mag_Prep/Книги/09.04.04.pdf",
+    "Mag_Prep/Элементарные двухместные ФАЛ..md",
+    "Mag_Prep/Фиктивные и существенные аргументы..md",
+    "Mag_Prep/Разделы",
+    "Mag_Prep/Основные узлы ЦП и их назначение..md",
+    "Mag_Prep/Основные стадии выполнения команды..md",
+    "Mag_Prep/Количество и качество информации..md",
+    "Mag_Prep/Книги",
+    "Mag_Prep/Алгоритм проверки на существенность или фиктивность..md",
+    "Mag_Prep",
+    "MagPrep/Книги/Сети, Лекции/Лекция_9_Сети ЭВМ и ТК_OSPF.pdf",
+    "MagPrep/Книги/Сети, Лекции/Лекция_7_Сети ЭВМ и ТК Агрегирование каналов.pdf",
+    "MagPrep/Книги/Сети, Лекции/Лекция_8_Сети ЭВМ и ТК WLAN.pdf",
+    "MagPrep/Разделы/Закрытый раздел 9, Процесс разработки.md",
+    "MagPrep/Разделы/Закрытый раздел 8, Базы Данных.md",
+    "MagPrep/Разделы/Закрытый раздел 7, Защита Информации.md",
+    "MagPrep/Разделы/Закрытый раздел 6, Сети.md",
+    "MagPrep/Разделы/Закрытый раздел 5, Программирование.md",
+    "MagPrep/Разделы/Закрытый раздел 4, Операционки.md",
+    "MagPrep/Разделы/Закрытый раздел 3, ЭВМ и Периферия.md",
+    "MagPrep/Разделы/Закрытый раздел 2, Информатика.md",
+    "MagPrep/Pasted image 20250806165345.png",
+    "MagPrep/Pasted image 20250806165325.png",
+    "MagPrep/Pasted image 20250806165428.png",
+    "MagPrep/Pasted image 20250806165212.png",
+    "MagPrep/Pasted image 20250806165308.png",
+    "MagPrep/Pasted image 20250806165107.png",
+    "MagPrep/Pasted image 20250806164951.png",
+    "MagPrep/Pasted image 20250806165122.png",
+    "MagPrep/Pasted image 20250806164708.png",
+    "MagPrep/Pasted image 20250806164911.png"
+  ]
+}
