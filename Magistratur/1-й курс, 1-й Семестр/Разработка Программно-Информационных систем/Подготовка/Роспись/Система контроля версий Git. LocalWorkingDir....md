@@ -1,3 +1,5 @@
+Staging Area. Local Repository. Remote Repository. Команды переходов.
+
 Git использует трёхслойную архитектуру: **LocalWorkingDir** (рабочая директория), **Staging Area** (индекс), **Local Repository** (.git), с возможностью синхронизации с **Remote Repository**.
 
 - **LocalWorkingDir (рабочая директория):** Видимые файлы проекта, где редактируете код. Здесь изменения **неотслеживаемы** до `git add`.
